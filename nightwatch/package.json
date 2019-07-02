@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/register": "^7.4.4",
+    "chromedriver": "^74.0.0",
+    "geckodriver": "^1.16.2",
+    "nightwatch": "^1.1.11",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  },
+  "scripts": {
+    "nightwatch": "./nightwatch.js"
+  }
+}
