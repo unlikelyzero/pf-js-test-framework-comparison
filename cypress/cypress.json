@@ -1,0 +1,13 @@
+{
+  "baseUrl": "https://localhost:3001/",
+  "numTestsKeptInMemory": 50,
+  "watchForFileChanges": true,
+  "pageLoadTimeout": 30000,
+  "viewPortHeight": 768,
+  "viewportWidth": 1024,
+  "chromeWebSecurity": false,
+  "env": {
+    "AWX_E2E_USERNAME": "username",
+    "AWX_E2E_PASSWORD": "password"
+  }
+}
